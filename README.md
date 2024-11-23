@@ -1,5 +1,3 @@
-
-```markdown
 # Packet Sniffer
 
 This Python script (`sniff.py`) is a simple packet sniffer that captures and processes network packets using raw sockets. It is designed for educational purposes to demonstrate how network traffic can be captured and analyzed.
