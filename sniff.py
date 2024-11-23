@@ -7,7 +7,7 @@ def sniff_packets():
         # Create a raw socket
         with socket.socket(socket.AF_INET, socket.SOCK_RAW, socket.IPPROTO_IP) as sock:
             # Bind to the IP address of the active interface
-            host = "172.20.10.5".strip()
+            host = "Put ur network IP".strip()
             port = 0 
             sock.bind((host, port))
 
