@@ -87,4 +87,3 @@ Packet received from ('172.20.10.6', 443): b'\x45\x00...'
 - Integrate advanced libraries like scapy for enhanced packet processing.
 
 
-```
